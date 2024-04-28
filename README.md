@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Yegeta
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Software Development 
-- 📫 you can reach me through social media 
+
 
 <!---
 Master-Yegeta/Master-Yegeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
